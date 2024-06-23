@@ -34,10 +34,10 @@
         <img alt="Codewars" src="https://img.shields.io/badge/Codewars-kyu%205-orange?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
     <a href="https://leetcode.com/navneetguptacse/">
-        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-100%25-green?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-71.21%25-green?style=for-the-badge&logo=leetcode&logoColor=white" />
     </a>
     <a href="https://codeforces.com/profile/navneetguptacse">
-        <img alt="CodeForces" src="https://img.shields.io/badge/CodeForces-1600-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+        <img alt="CodeForces" src="https://img.shields.io/badge/CodeForces-1107-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
     </a>
     <br />
 </p>
