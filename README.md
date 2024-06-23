@@ -1,10 +1,10 @@
 <p align="center">
     <img width="100px" src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">
-        Hi there 👋
+        Hi there,👋
     </h2>
     <p align="center" style="font-size: 14px; font-weight: 500; font-family: Open Sans, sans-serif;">
-        I'm Navneet Gupta, a visionary Full Stack Developer and Machine Learning enthusiast, driven to craft innovative solutions that transform the tech landscape.
+        I'm Navneet Gupta, passinate about Full Stack Developement and Machine Learning enthusiast, driven to craft innovative solutions that transform the tech landscape. <br> I’m currently working on Full Stack Development i.e. React.js, Node.js, Spring Boot, etc
     </p>
 </p>
 
