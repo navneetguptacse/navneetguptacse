@@ -53,5 +53,3 @@
   ·
   <a href="#contribute-and-fork">Contribute and Fork</a>
 </p>
-
-<p align="center" style="font-size: 14px; font-weight: 500; font-family: Open Sans, sans-serif;">Copyright (c) 2024, The Centrabyte Inc. with ❤️ by Navneet Gupta</p>
